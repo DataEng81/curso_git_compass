@@ -4,3 +4,4 @@ atualização no arquivo
 
 funcionalidade a
 funcionalidade b
+funcionalidade c
